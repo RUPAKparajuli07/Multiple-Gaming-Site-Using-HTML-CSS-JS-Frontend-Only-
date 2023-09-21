@@ -1,4 +1,4 @@
-Creating Documentation for HTML Code:
+
 
 # Gamics Website Documentation
 
